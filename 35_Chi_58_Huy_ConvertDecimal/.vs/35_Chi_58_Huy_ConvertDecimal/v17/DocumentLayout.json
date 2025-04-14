@@ -1,0 +1,108 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_58_Huy_ConvertDecimal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CB27A78B-6E34-460E-B50A-3C1A09670A24}|35_Chi_58_Huy_ConVertDecimalTester\\35_Chi_58_Huy_ConVertDecimalTester.csproj|d:\\ktpm\\35_chi_58_huy_ktpm\\35_chi_58_huy_convertdecimal\\35_chi_58_huy_convertdecimaltester\\unittest_35_chi_58_huy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB27A78B-6E34-460E-B50A-3C1A09670A24}|35_Chi_58_Huy_ConVertDecimalTester\\35_Chi_58_Huy_ConVertDecimalTester.csproj|solutionrelative:35_chi_58_huy_convertdecimaltester\\unittest_35_chi_58_huy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2948BF9E-7FE1-4034-BB3B-14EAEA7EA57B}|35_Chi_58_Huy_ConvertDecimal\\35_Chi_58_Huy_ConvertDecimal.csproj|D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_58_Huy_ConvertDecimal\\35_chi_58_huy_convertdecimal\\form1_35_chi_58_huy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2948BF9E-7FE1-4034-BB3B-14EAEA7EA57B}|35_Chi_58_Huy_ConvertDecimal\\35_Chi_58_Huy_ConvertDecimal.csproj|solutionrelative:35_chi_58_huy_convertdecimal\\form1_35_chi_58_huy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2948BF9E-7FE1-4034-BB3B-14EAEA7EA57B}|35_Chi_58_Huy_ConvertDecimal\\35_Chi_58_Huy_ConvertDecimal.csproj|D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_58_Huy_ConvertDecimal\\35_chi_58_huy_convertdecimal\\form1_35_chi_58_huy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2948BF9E-7FE1-4034-BB3B-14EAEA7EA57B}|35_Chi_58_Huy_ConvertDecimal\\35_Chi_58_Huy_ConvertDecimal.csproj|solutionrelative:35_chi_58_huy_convertdecimal\\form1_35_chi_58_huy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2948BF9E-7FE1-4034-BB3B-14EAEA7EA57B}|35_Chi_58_Huy_ConvertDecimal\\35_Chi_58_Huy_ConvertDecimal.csproj|D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_58_Huy_ConvertDecimal\\35_chi_58_huy_convertdecimal\\radix_35_chi_58_huy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2948BF9E-7FE1-4034-BB3B-14EAEA7EA57B}|35_Chi_58_Huy_ConvertDecimal\\35_Chi_58_Huy_ConvertDecimal.csproj|solutionrelative:35_chi_58_huy_convertdecimal\\radix_35_chi_58_huy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB27A78B-6E34-460E-B50A-3C1A09670A24}|35_Chi_58_Huy_ConVertDecimalTester\\35_Chi_58_Huy_ConVertDecimalTester.csproj|D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_58_Huy_ConvertDecimal\\35_chi_58_huy_convertdecimaltester\\data_35_chi_58_huy\\testdata_35_chi_58_huy.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CB27A78B-6E34-460E-B50A-3C1A09670A24}|35_Chi_58_Huy_ConVertDecimalTester\\35_Chi_58_Huy_ConVertDecimalTester.csproj|solutionrelative:35_chi_58_huy_convertdecimaltester\\data_35_chi_58_huy\\testdata_35_chi_58_huy.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TestData_35_Chi_58_Huy.csv",
+              "DocumentMoniker": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_58_Huy_ConvertDecimal\\35_Chi_58_Huy_ConVertDecimalTester\\Data_35_Chi_58_Huy\\TestData_35_Chi_58_Huy.csv",
+              "RelativeDocumentMoniker": "35_Chi_58_Huy_ConVertDecimalTester\\Data_35_Chi_58_Huy\\TestData_35_Chi_58_Huy.csv",
+              "ToolTip": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_58_Huy_ConvertDecimal\\35_Chi_58_Huy_ConVertDecimalTester\\Data_35_Chi_58_Huy\\TestData_35_Chi_58_Huy.csv",
+              "RelativeToolTip": "35_Chi_58_Huy_ConVertDecimalTester\\Data_35_Chi_58_Huy\\TestData_35_Chi_58_Huy.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-04-05T15:53:01.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest_35_Chi_58_Huy.cs",
+              "DocumentMoniker": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_58_Huy_ConvertDecimal\\35_Chi_58_Huy_ConVertDecimalTester\\UnitTest_35_Chi_58_Huy.cs",
+              "RelativeDocumentMoniker": "35_Chi_58_Huy_ConVertDecimalTester\\UnitTest_35_Chi_58_Huy.cs",
+              "ToolTip": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_58_Huy_ConvertDecimal\\35_Chi_58_Huy_ConVertDecimalTester\\UnitTest_35_Chi_58_Huy.cs",
+              "RelativeToolTip": "35_Chi_58_Huy_ConVertDecimalTester\\UnitTest_35_Chi_58_Huy.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAmwGcAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T15:16:00.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Radix_35_Chi_58_Huy.cs",
+              "DocumentMoniker": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_58_Huy_ConvertDecimal\\35_Chi_58_Huy_ConvertDecimal\\Radix_35_Chi_58_Huy.cs",
+              "RelativeDocumentMoniker": "35_Chi_58_Huy_ConvertDecimal\\Radix_35_Chi_58_Huy.cs",
+              "ToolTip": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_58_Huy_ConvertDecimal\\35_Chi_58_Huy_ConvertDecimal\\Radix_35_Chi_58_Huy.cs",
+              "RelativeToolTip": "35_Chi_58_Huy_ConvertDecimal\\Radix_35_Chi_58_Huy.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAYwEAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:42:13.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1_35_Chi_58_Huy.cs",
+              "DocumentMoniker": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_58_Huy_ConvertDecimal\\35_Chi_58_Huy_ConvertDecimal\\Form1_35_Chi_58_Huy.cs",
+              "RelativeDocumentMoniker": "35_Chi_58_Huy_ConvertDecimal\\Form1_35_Chi_58_Huy.cs",
+              "ToolTip": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_58_Huy_ConvertDecimal\\35_Chi_58_Huy_ConvertDecimal\\Form1_35_Chi_58_Huy.cs",
+              "RelativeToolTip": "35_Chi_58_Huy_ConvertDecimal\\Form1_35_Chi_58_Huy.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:22:58.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1_35_Chi_58_Huy.cs [Design]",
+              "DocumentMoniker": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_58_Huy_ConvertDecimal\\35_Chi_58_Huy_ConvertDecimal\\Form1_35_Chi_58_Huy.cs",
+              "RelativeDocumentMoniker": "35_Chi_58_Huy_ConvertDecimal\\Form1_35_Chi_58_Huy.cs",
+              "ToolTip": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_58_Huy_ConvertDecimal\\35_Chi_58_Huy_ConvertDecimal\\Form1_35_Chi_58_Huy.cs [Design]",
+              "RelativeToolTip": "35_Chi_58_Huy_ConvertDecimal\\Form1_35_Chi_58_Huy.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:13:15.715Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
