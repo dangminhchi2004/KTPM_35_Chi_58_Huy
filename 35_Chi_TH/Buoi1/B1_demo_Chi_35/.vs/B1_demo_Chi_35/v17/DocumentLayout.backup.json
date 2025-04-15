@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_TH\\Buoi1\\B1_demo_Chi_35\\",
+  "WorkspaceRootPath": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_TH\\Buoi1\\B1_Demo_Chi_35\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3854DB3D-20C5-4F77-8AC5-A58E5F5D936C}|B1_demo_Chi_35_UnitTest\\B1_demo_Chi_35_UnitTest.csproj|d:\\ktpm\\35_chi_58_huy_ktpm\\35_chi_th\\buoi1\\b1_demo_chi_35\\b1_demo_chi_35_unittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3854DB3D-20C5-4F77-8AC5-A58E5F5D936C}|B1_demo_Chi_35_UnitTest\\B1_demo_Chi_35_UnitTest.csproj|solutionrelative:b1_demo_chi_35_unittest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{275EA501-8095-4AA7-B991-35947573B23F}|B1_Demo_Chi_35\\B1_Demo_Chi_35.csproj|D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_TH\\Buoi1\\B1_Demo_Chi_35\\b1_demo_chi_35\\form_35_chi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{275EA501-8095-4AA7-B991-35947573B23F}|B1_Demo_Chi_35\\B1_Demo_Chi_35.csproj|solutionrelative:b1_demo_chi_35\\form_35_chi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61CCDD50-DF1D-4345-9404-CBF5E777F994}|B1_demo_Chi_35\\B1_demo_Chi_35.csproj|D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_TH\\Buoi1\\B1_demo_Chi_35\\b1_demo_chi_35\\class1_demo_chi_35.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61CCDD50-DF1D-4345-9404-CBF5E777F994}|B1_demo_Chi_35\\B1_demo_Chi_35.csproj|solutionrelative:b1_demo_chi_35\\class1_demo_chi_35.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{275EA501-8095-4AA7-B991-35947573B23F}|B1_Demo_Chi_35\\B1_Demo_Chi_35.csproj|D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_TH\\Buoi1\\B1_Demo_Chi_35\\b1_demo_chi_35\\form_35_chi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275EA501-8095-4AA7-B991-35947573B23F}|B1_Demo_Chi_35\\B1_Demo_Chi_35.csproj|solutionrelative:b1_demo_chi_35\\form_35_chi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61CCDD50-DF1D-4345-9404-CBF5E777F994}|B1_demo_Chi_35\\B1_demo_Chi_35.csproj|D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_TH\\Buoi1\\B1_demo_Chi_35\\b1_demo_chi_35\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{61CCDD50-DF1D-4345-9404-CBF5E777F994}|B1_demo_Chi_35\\B1_demo_Chi_35.csproj|solutionrelative:b1_demo_chi_35\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3CF1308-99FB-4E6F-99DC-D1B7961DE916}|B1_demo_Chi_35_UnitTest\\B1_demo_Chi_35_UnitTest.csproj|D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_TH\\Buoi1\\B1_Demo_Chi_35\\b1_demo_chi_35_unittest\\unittest_35_chi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3CF1308-99FB-4E6F-99DC-D1B7961DE916}|B1_demo_Chi_35_UnitTest\\B1_demo_Chi_35_UnitTest.csproj|solutionrelative:b1_demo_chi_35_unittest\\unittest_35_chi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{61CCDD50-DF1D-4345-9404-CBF5E777F994}|B1_demo_Chi_35\\B1_demo_Chi_35.csproj|D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_TH\\Buoi1\\B1_demo_Chi_35\\b1_demo_chi_35\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{61CCDD50-DF1D-4345-9404-CBF5E777F994}|B1_demo_Chi_35\\B1_demo_Chi_35.csproj|solutionrelative:b1_demo_chi_35\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{275EA501-8095-4AA7-B991-35947573B23F}|B1_Demo_Chi_35\\B1_Demo_Chi_35.csproj|d:\\ktpm\\35_chi_58_huy_ktpm\\35_chi_th\\buoi1\\b1_demo_chi_35\\b1_demo_chi_35\\class1_demo_chi_35.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{275EA501-8095-4AA7-B991-35947573B23F}|B1_Demo_Chi_35\\B1_Demo_Chi_35.csproj|solutionrelative:b1_demo_chi_35\\class1_demo_chi_35.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,52 +34,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Class1_demo_Chi_35.cs",
-              "DocumentMoniker": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_TH\\Buoi1\\B1_demo_Chi_35\\B1_demo_Chi_35\\Class1_demo_Chi_35.cs",
-              "RelativeDocumentMoniker": "B1_demo_Chi_35\\Class1_demo_Chi_35.cs",
-              "ToolTip": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_TH\\Buoi1\\B1_demo_Chi_35\\B1_demo_Chi_35\\Class1_demo_Chi_35.cs",
-              "RelativeToolTip": "B1_demo_Chi_35\\Class1_demo_Chi_35.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAaAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_TH\\Buoi1\\B1_Demo_Chi_35\\B1_Demo_Chi_35\\Class1_demo_Chi_35.cs",
+              "RelativeDocumentMoniker": "B1_Demo_Chi_35\\Class1_demo_Chi_35.cs",
+              "ToolTip": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_TH\\Buoi1\\B1_Demo_Chi_35\\B1_Demo_Chi_35\\Class1_demo_Chi_35.cs",
+              "RelativeToolTip": "B1_Demo_Chi_35\\Class1_demo_Chi_35.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T01:03:44.921Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_TH\\Buoi1\\B1_demo_Chi_35\\B1_demo_Chi_35_UnitTest\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "B1_demo_Chi_35_UnitTest\\UnitTest1.cs",
-              "ToolTip": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_TH\\Buoi1\\B1_demo_Chi_35\\B1_demo_Chi_35_UnitTest\\UnitTest1.cs*",
-              "RelativeToolTip": "B1_demo_Chi_35_UnitTest\\UnitTest1.cs*",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAiwFgAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T00:56:59.536Z",
+              "WhenOpened": "2025-04-15T14:46:43.571Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_TH\\Buoi1\\B1_demo_Chi_35\\B1_demo_Chi_35\\Form1.cs",
-              "RelativeDocumentMoniker": "B1_demo_Chi_35\\Form1.cs",
-              "ToolTip": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_TH\\Buoi1\\B1_demo_Chi_35\\B1_demo_Chi_35\\Form1.cs",
-              "RelativeToolTip": "B1_demo_Chi_35\\Form1.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAlAAAAAAAAAA==",
+              "Title": "UnitTest_35_Chi.cs",
+              "DocumentMoniker": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_TH\\Buoi1\\B1_Demo_Chi_35\\B1_demo_Chi_35_UnitTest\\UnitTest_35_Chi.cs",
+              "RelativeDocumentMoniker": "B1_demo_Chi_35_UnitTest\\UnitTest_35_Chi.cs",
+              "ToolTip": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_TH\\Buoi1\\B1_Demo_Chi_35\\B1_demo_Chi_35_UnitTest\\UnitTest_35_Chi.cs",
+              "RelativeToolTip": "B1_demo_Chi_35_UnitTest\\UnitTest_35_Chi.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwE4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-09T00:51:44.774Z"
+              "WhenOpened": "2025-04-15T14:30:30.843Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_TH\\Buoi1\\B1_demo_Chi_35\\B1_demo_Chi_35\\Form1.cs",
-              "RelativeDocumentMoniker": "B1_demo_Chi_35\\Form1.cs",
-              "ToolTip": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_TH\\Buoi1\\B1_demo_Chi_35\\B1_demo_Chi_35\\Form1.cs [Design]",
-              "RelativeToolTip": "B1_demo_Chi_35\\Form1.cs [Design]",
+              "DocumentIndex": 1,
+              "Title": "Form_35_Chi.cs",
+              "DocumentMoniker": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_TH\\Buoi1\\B1_Demo_Chi_35\\B1_Demo_Chi_35\\Form_35_Chi.cs",
+              "RelativeDocumentMoniker": "B1_Demo_Chi_35\\Form_35_Chi.cs",
+              "ToolTip": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_TH\\Buoi1\\B1_Demo_Chi_35\\B1_Demo_Chi_35\\Form_35_Chi.cs",
+              "RelativeToolTip": "B1_Demo_Chi_35\\Form_35_Chi.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAD0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-08T12:32:26.042Z"
+              "WhenOpened": "2025-04-15T14:27:25.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form_35_Chi.cs [Design]",
+              "DocumentMoniker": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_TH\\Buoi1\\B1_Demo_Chi_35\\B1_Demo_Chi_35\\Form_35_Chi.cs",
+              "RelativeDocumentMoniker": "B1_Demo_Chi_35\\Form_35_Chi.cs",
+              "ToolTip": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_TH\\Buoi1\\B1_Demo_Chi_35\\B1_Demo_Chi_35\\Form_35_Chi.cs [Design]",
+              "RelativeToolTip": "B1_Demo_Chi_35\\Form_35_Chi.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T14:21:42.716Z",
+              "EditorCaption": " [Design]"
             }
           ]
         }

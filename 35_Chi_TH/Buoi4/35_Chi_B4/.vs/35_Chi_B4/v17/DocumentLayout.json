@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_TH\\Buoi4\\35_Chi_B4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{23C85458-3E15-4091-A031-ACC08DD69DAD}|35_Chi_B4\\35_Chi_B4.csproj|d:\\ktpm\\35_chi_58_huy_ktpm\\35_chi_th\\buoi4\\35_chi_b4\\35_chi_b4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{23C85458-3E15-4091-A031-ACC08DD69DAD}|35_Chi_B4\\35_Chi_B4.csproj|solutionrelative:35_chi_b4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{23C85458-3E15-4091-A031-ACC08DD69DAD}|35_Chi_B4\\35_Chi_B4.csproj|d:\\ktpm\\35_chi_58_huy_ktpm\\35_chi_th\\buoi4\\35_chi_b4\\35_chi_b4\\form_35_chi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C85458-3E15-4091-A031-ACC08DD69DAD}|35_Chi_B4\\35_Chi_B4.csproj|solutionrelative:35_chi_b4\\form_35_chi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{23C85458-3E15-4091-A031-ACC08DD69DAD}|35_Chi_B4\\35_Chi_B4.csproj|D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_TH\\Buoi4\\35_Chi_B4\\35_chi_b4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{23C85458-3E15-4091-A031-ACC08DD69DAD}|35_Chi_B4\\35_Chi_B4.csproj|solutionrelative:35_chi_b4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_TH\\Buoi4\\35_Chi_B4\\35_chi_b4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:35_chi_b4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,12 +27,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_TH\\Buoi4\\35_Chi_B4\\35_Chi_B4\\Form1.cs",
-              "RelativeDocumentMoniker": "35_Chi_B4\\Form1.cs",
-              "ToolTip": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_TH\\Buoi4\\35_Chi_B4\\35_Chi_B4\\Form1.cs",
-              "RelativeToolTip": "35_Chi_B4\\Form1.cs",
-              "ViewState": "AgIAACsAAAAAAAAAAAAAAD4AAAAfAAAAAAAAAA==",
+              "Title": "Form_35_Chi.cs",
+              "DocumentMoniker": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_TH\\Buoi4\\35_Chi_B4\\35_Chi_B4\\Form_35_Chi.cs",
+              "RelativeDocumentMoniker": "35_Chi_B4\\Form_35_Chi.cs",
+              "ToolTip": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_TH\\Buoi4\\35_Chi_B4\\35_Chi_B4\\Form_35_Chi.cs",
+              "RelativeToolTip": "35_Chi_B4\\Form_35_Chi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T09:23:25.705Z",
               "EditorCaption": ""
@@ -46,8 +46,7 @@
               "ToolTip": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_TH\\Buoi4\\35_Chi_B4\\35_Chi_B4\\Form1.cs [Design]",
               "RelativeToolTip": "35_Chi_B4\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T09:16:49.397Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-26T09:16:49.397Z"
             }
           ]
         }

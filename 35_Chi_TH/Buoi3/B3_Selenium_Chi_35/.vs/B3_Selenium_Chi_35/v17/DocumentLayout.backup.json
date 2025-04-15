@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_TH\\Buoi3\\B3_Selenium_Chi_35\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{22DE25A1-3625-41A2-AADE-A4B5F9827CAF}|B3_Selenium_Chi_35\\B3_Selenium_Chi_35.csproj|d:\\ktpm\\35_chi_58_huy_ktpm\\35_chi_th\\buoi3\\b3_selenium_chi_35\\b3_selenium_chi_35\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{22DE25A1-3625-41A2-AADE-A4B5F9827CAF}|B3_Selenium_Chi_35\\B3_Selenium_Chi_35.csproj|solutionrelative:b3_selenium_chi_35\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{22DE25A1-3625-41A2-AADE-A4B5F9827CAF}|B3_Selenium_Chi_35\\B3_Selenium_Chi_35.csproj|d:\\ktpm\\35_chi_58_huy_ktpm\\35_chi_th\\buoi3\\b3_selenium_chi_35\\b3_selenium_chi_35\\form_35_chi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22DE25A1-3625-41A2-AADE-A4B5F9827CAF}|B3_Selenium_Chi_35\\B3_Selenium_Chi_35.csproj|solutionrelative:b3_selenium_chi_35\\form_35_chi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{22DE25A1-3625-41A2-AADE-A4B5F9827CAF}|B3_Selenium_Chi_35\\B3_Selenium_Chi_35.csproj|D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_TH\\Buoi3\\B3_Selenium_Chi_35\\b3_selenium_chi_35\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{22DE25A1-3625-41A2-AADE-A4B5F9827CAF}|B3_Selenium_Chi_35\\B3_Selenium_Chi_35.csproj|solutionrelative:b3_selenium_chi_35\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{22DE25A1-3625-41A2-AADE-A4B5F9827CAF}|B3_Selenium_Chi_35\\B3_Selenium_Chi_35.csproj|D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_TH\\Buoi3\\B3_Selenium_Chi_35\\b3_selenium_chi_35\\form_35_chi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{22DE25A1-3625-41A2-AADE-A4B5F9827CAF}|B3_Selenium_Chi_35\\B3_Selenium_Chi_35.csproj|solutionrelative:b3_selenium_chi_35\\form_35_chi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,12 +27,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_TH\\Buoi3\\B3_Selenium_Chi_35\\B3_Selenium_Chi_35\\Form1.cs",
-              "RelativeDocumentMoniker": "B3_Selenium_Chi_35\\Form1.cs",
-              "ToolTip": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_TH\\Buoi3\\B3_Selenium_Chi_35\\B3_Selenium_Chi_35\\Form1.cs*",
-              "RelativeToolTip": "B3_Selenium_Chi_35\\Form1.cs*",
-              "ViewState": "AgIAAEoAAAAAAAAAAAAswGAAAAAAAAAAAAAAAA==",
+              "Title": "Form_35_Chi.cs",
+              "DocumentMoniker": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_TH\\Buoi3\\B3_Selenium_Chi_35\\B3_Selenium_Chi_35\\Form_35_Chi.cs",
+              "RelativeDocumentMoniker": "B3_Selenium_Chi_35\\Form_35_Chi.cs",
+              "ToolTip": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_TH\\Buoi3\\B3_Selenium_Chi_35\\B3_Selenium_Chi_35\\Form_35_Chi.cs",
+              "RelativeToolTip": "B3_Selenium_Chi_35\\Form_35_Chi.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowFUAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T13:16:06.666Z",
               "EditorCaption": ""
@@ -40,11 +40,11 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_TH\\Buoi3\\B3_Selenium_Chi_35\\B3_Selenium_Chi_35\\Form1.cs",
-              "RelativeDocumentMoniker": "B3_Selenium_Chi_35\\Form1.cs",
-              "ToolTip": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_TH\\Buoi3\\B3_Selenium_Chi_35\\B3_Selenium_Chi_35\\Form1.cs [Design]",
-              "RelativeToolTip": "B3_Selenium_Chi_35\\Form1.cs [Design]",
+              "Title": "Form_35_Chi.cs [Design]",
+              "DocumentMoniker": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_TH\\Buoi3\\B3_Selenium_Chi_35\\B3_Selenium_Chi_35\\Form_35_Chi.cs",
+              "RelativeDocumentMoniker": "B3_Selenium_Chi_35\\Form_35_Chi.cs",
+              "ToolTip": "D:\\KTPM\\35_Chi_58_Huy_KTPM\\35_Chi_TH\\Buoi3\\B3_Selenium_Chi_35\\B3_Selenium_Chi_35\\Form_35_Chi.cs [Design]",
+              "RelativeToolTip": "B3_Selenium_Chi_35\\Form_35_Chi.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-08T13:03:23.213Z"
             }

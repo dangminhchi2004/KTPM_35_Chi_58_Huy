@@ -4,35 +4,35 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace B1_demo_Chi_35
+namespace B1_Demo_Chi_35
 {
     public class Class1_demo_Chi_35
     {
-        private int a_Chi_35, b_Chi_35;
-        public Class1_demo_Chi_35(int a_Chi_35, int b_Chi_35)
+        private int a_35_Chi, b_35_Chi;
+        public Class1_demo_Chi_35(int a_35_Chi, int b_35_Chi)
         {
-            this.a_Chi_35 = a_Chi_35;
-            this.b_Chi_35 = b_Chi_35;
+            this.a_35_Chi = a_35_Chi;
+            this.b_35_Chi = b_35_Chi;
         }
-        public int Execute(String CalSymbol)
+        public int Execute_35_Chi(String CalSymbol_35_Chi)
         {
-            int result = 0;
-            switch (CalSymbol)
+            int result_35_Chi = 0;
+            switch (CalSymbol_35_Chi)
             {
                 case "+":
-                    result = this.a_Chi_35 + this.b_Chi_35;
+                    result_35_Chi = this.a_35_Chi + this.b_35_Chi;
                     break;
                 case "-":
-                    result = this.a_Chi_35 - this.b_Chi_35;
+                    result_35_Chi = this.a_35_Chi - this.b_35_Chi;
                     break;
                 case "*":
-                    result = this.a_Chi_35 * this.b_Chi_35;
+                    result_35_Chi = this.a_35_Chi * this.b_35_Chi;
                     break;
                 case "/":
-                    result = this.a_Chi_35 / this.b_Chi_35;
+                    result_35_Chi = this.a_35_Chi / this.b_35_Chi;
                     break;
             }
-            return result;
+            return result_35_Chi;
         }
 
     }
