@@ -1,0 +1,236 @@
+gulp build
+gulp serve
+gulp clean
+gulp bundle --ship
+gulp package-solution --ship
+yo @microsoft/sharepoint
+netstat -ano | findstr :4321
+taskkill /PID 12345 /F
+npx kill-port 4321
+gulp serve --config customHeaderFooter
+
+protected async onInit(): Promise<void> {
+  //LOAD INTER FONT FROM GOOGLE FONTS
+  const link = document.createElement('link');
+  link.href = 'https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap';
+  link.rel = 'stylesheet';
+  document.head.appendChild(link);
+  this._environmentMessage = await this._getEnvironmentMessage();
+}
+
+AnnouncementTickerWebPart.ts font, color
+EmployeeBirthdayCarousel.module.scss color, lỗi font hàm onit có rồi
+
+Link tin tức: /sites/ADCCommunicationMainSite/SitePages/Tin-tức.aspx
+
+<img fetchpriority="high" src="https://png.pngtree.com/png-vector/20190710/ourmid/pngtree-user-vector-avatar-png-image_1541962.jpg" width="360" height="360" decoding="async" alt="user vector avatar, Human Clipart, Female User user avatar vector design images" class="_usic1m _1jmhgyw _129x5nq _1dk7ooh _1efnc4d _xxp0k1 _12uk99r _1s4plaf _13wgmsu">
+
+<img fetchpriority="high" src="https://png.pngtree.com/element_our/20190604/ourmid/pngtree-user-avatar-boy-image_1482937.jpg" width="360" height="360" decoding="async" alt="user avatar boy, User, Avatar user clipart transparent png hd" class="_usic1m _1jmhgyw _129x5nq _1dk7ooh _1efnc4d _xxp0k1 _12uk99r _1s4plaf _13wgmsu">
+
+<img fetchpriority="high" src="https://png.pngtree.com/png-vector/20220709/ourmid/pngtree-businessman-user-avatar-wearing-suit-with-red-tie-png-image_5809521.png" width="360" height="360" decoding="async" alt="businessman user avatar wearing suit with red tie, Avatar, Businessman Avatar businessman avatar vector png images" class="_usic1m _1jmhgyw _129x5nq _1dk7ooh _1efnc4d _xxp0k1 _12uk99r _1s4plaf _13wgmsu">
+
+<img fetchpriority="high" src="https://png.pngtree.com/png-vector/20190704/ourmid/pngtree-businessman-user-avatar-free-vector-png-image_1538405.jpg" width="360" height="360" decoding="async" alt="businessman user avatar free vector, Female User, Icon businessman clipart hd png" class="_usic1m _1jmhgyw _129x5nq _1dk7ooh _1efnc4d _xxp0k1 _12uk99r _1s4plaf _13wgmsu">
+
+<img data-src="https://png.pngtree.com/png-vector/20190702/ourmid/pngtree-female-user-avatars-flat-style-women-profession-vector-png-image_1529171.jpg" src="https://png.pngtree.com/png-vector/20190702/ourmid/pngtree-female-user-avatars-flat-style-women-profession-vector-png-image_1529171.jpg" width="360" height="360" decoding="async" alt="female user avatars flat style women profession vector, Female User, Icon women professions vector hd images" class="_usic1m _1jmhgyw _129x5nq _1dk7ooh _1efnc4d _xxp0k1 _12uk99r _1s4plaf _13wgmsu x-loaded">
+
+<img alt="a man wearing glasses and a suit with a green tie on transparent background png" class="hCL" draggable="true" fetchpriority="auto" loading="auto" src="https://i.pinimg.com/736x/7e/71/9b/7e719be79d55353a3ce6551d704e43ca.jpg" elementtiming="closeupImage">
+
+<img class="shyLogoImg-133" alt="" aria-hidden="true" src="https://asiadragon.sharepoint.com/sites/ADCCommunicationMainSite/_api/siteiconmanager/getsitelogo?type='1'&amp;hash=638966987438295452" style="min-height: 0px; min-width: 0px;">
+
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://jobsgo.vn/media/img/employer/2505-cover.jpg?v=1695972247" width="828" height="165">
+
+<div class="vegas-overlay" style="background-image: url(&quot;https://asiadragoncordage.com/wp-content/plugins/nifty-coming-soon-and-under-construction-page/assets/images/patterns/16.png&quot;);"></div>
+
+
+Sách
+<img src="https://cf.shopee.vn/file/96d1a3157c4b3da222c4e92eea95ecea" alt="Tham khảo những mẫu vẽ bìa sách văn học cảm hứng và mới lạ" class=" nofocus" tabindex="0" aria-label="Tham khảo những mẫu vẽ bìa sách văn học cảm hứng và mới lạ" role="button" data-bm="133">
+
+<img src="https://www.sachbaokhang.vn/uploads/files/2023/05/01/van-1.jpg" alt="Điểm qua TOP 10 cuốn sách văn học Việt Nam cũ kinh điển nhất | Sách Bảo ..." class=" nofocus" tabindex="0" aria-label="Điểm qua TOP 10 cuốn sách văn học Việt Nam cũ kinh điển nhất | Sách Bảo ..." role="button">
+
+<img src="https://www.baolongan.vn/image/news/2022/20220509/images/bia-sach2-9886.jpg" alt="Bìa sách kể chuyện thiết kế - Báo Long An Online" class=" nofocus" tabindex="0" aria-label="Bìa sách kể chuyện thiết kế - Báo Long An Online" role="button">
+
+<img src="https://marketplace.canva.com/EAD5DFBuM78/1/0/1003w/canva-c%E1%BA%B7p-%C4%91%C3%B4i-trong-c%E1%BB%8F-khoa-h%E1%BB%8Dc-vi%E1%BB%85n-t%C6%B0%E1%BB%9Fng-s%C3%A1ch-b%C3%ACa-eRK4o7m6a6c.jpg" alt="Tuyển chọn ảnh bìa sách đẹp trang trí cho tác phẩm của bạn" class=" nofocus" tabindex="0" aria-label="Tuyển chọn ảnh bìa sách đẹp trang trí cho tác phẩm của bạn" role="button">
+
+<img src="https://marketplace.canva.com/EAD5DP20nfc/1/0/1003w/canva-%C4%91%E1%BA%ADm-xanh-d%C6%B0%C6%A1ng-tr%C3%A1i-%C4%91%E1%BA%A5t-khoa-h%E1%BB%8Dc-vi%E1%BB%85n-t%C6%B0%E1%BB%9Fng-s%C3%A1ch-b%C3%ACa-5jYTmzVneQk.jpg" alt="10+ ý tưởng trang trí bìa sách đẹp nhất" class=" nofocus" tabindex="0" aria-label="10+ ý tưởng trang trí bìa sách đẹp nhất" role="button">
+
+<img src="https://marketplace.canva.com/EAD5DImBMcM/1/0/1003w/canva-m%C3%A0u-kem-c%C3%B3-hoa-c%E1%BA%A7u-nguy%E1%BB%87n-nh%E1%BA%ADt-k%C3%BD-s%C3%A1ch-b%C3%ACa-cNgx1FVe4g4.jpg" alt="Bộ sưu tập mẫu trang trí bìa sách được yêu thích nhất" class=" nofocus" tabindex="0" aria-label="Bộ sưu tập mẫu trang trí bìa sách được yêu thích nhất" role="button">
+
+<img src="https://marketplace.canva.com/EAD47gw3gaM/1/0/1003w/canva-%C4%91en-v%C3%A0-tr%E1%BA%AFng-b%E1%BA%A3nh-bao-c%E1%BB%95-%C4%91i%E1%BB%83n-b%C3%ACa-s%C3%A1ch-th%E1%BB%9Di-trang-GHHfZfJHIFQ.jpg" alt="Tuyển chọn ảnh bìa sách đẹp trang trí cho tác phẩm của bạn" class=" nofocus" tabindex="0" aria-label="Tuyển chọn ảnh bìa sách đẹp trang trí cho tác phẩm của bạn" role="button">
+
+<img src="https://www.baophat.net/files/assets/BiaSach/gia_biet_hoang_vu1.jpg" alt="Tổng hợp mẫu Vẽ bìa sách đẹp và thu hút người đọc" class=" nofocus" tabindex="0" aria-label="Tổng hợp mẫu Vẽ bìa sách đẹp và thu hút người đọc" role="button">
+
+<img src="https://cdn1.fahasa.com/media/catalog/product/v/i/viet_nam_tieu_hoc_tung_thu_cach_tri_giao_khoa_thu_bia_1.jpg" alt="Thiết kế bìa sách văn hóa - WIO" class=" nofocus" tabindex="0" aria-label="Thiết kế bìa sách văn hóa - WIO" role="button">
+
+<img src="https://newshop.vn/public/uploads/products/12383/dac-nhan-tam-bia-cung-phien-ban-moi-nhat-bia-truoc.gif" alt="Đắc Nhân Tâm - Dale Carnegie (Bìa Cứng) | Newshop.vn: Sách" class=" nofocus" tabindex="0" aria-label="Đắc Nhân Tâm - Dale Carnegie (Bìa Cứng) | Newshop.vn: Sách" role="button">
+
+
+[
+  {
+    "title": "SƠ ĐỒ TỔ CHỨC",
+    "url": "/sites/Intranet/SoDoToChuc.aspx",
+    "icon": "Org"
+  },
+  {
+    "title": "VĂN HÓA DOANH NGHIỆP",
+    "url": "/sites/Intranet/VanHoaDoanhNghiep.aspx",
+    "icon": "Group"
+  },
+  {
+    "title": "ĐÀO TẠO PHÁT TRIỂN",
+    "url": "/sites/Intranet/DaoTaoPhatTrien.aspx",
+    "icon": "Education"
+  },
+  {
+    "title": "CHÍNH SÁCH NHÂN SỰ",
+    "url": "/sites/Intranet/ChinhSachNhanSu.aspx",
+    "icon": "List"
+  },
+  {
+    "title": "TỪ ĐIỂN CHUYÊN NGÀNH",
+    "url": "/sites/Intranet/TuDienChuyenNganh.aspx",
+    "icon": "Library"
+  },
+  {
+    "title": "HỖ TRỢ IT",
+    "url": "/sites/Intranet/HoTroIT.aspx",
+    "icon": "Help"
+  }
+]
+
+<img src="https://www.ultimateprocy.com/wp-content/uploads/2018/01/FAQ-banner.jpg" alt="FAQ-banner - ultimateprocy" class=" nofocus" tabindex="0" aria-label="FAQ-banner - ultimateprocy" role="button" style="position: absolute; height: 100%; width: 100%; inset: 0px; margin: auto;">
+
+
+1.<AVT> Tên	6.<AVT> Tên
+ Danh hiệu	Danh hiệu
+2.<AVT> Tên	7.<AVT> Tên
+ Danh hiệu	Danh hiệu
+3.<AVT> Tên	8.<AVT> Tên
+ Danh hiệu	Danh hiệu
+4.<AVT> Tên	9.<AVT> Tên
+ Danh hiệu	Danh hiệu
+5.<AVT> Tên	10.<AVT> Tên
+ Danh hiệu	Danh hiệu
+
+
+https://nhasachmienphi.com/
+<img src="https://nhasachmienphi.com/images/thumbnail/nhasachmienphi-kinh-nghiem-thanh-cong-cua-ong-chu-nho.jpg">
+
+<img src="https://nhasachmienphi.com/images/thumbnail/nhasachmienphi-tu-to-lua-den-silicon.jpg">
+
+https://nhasachmienphi.com/images/thumbnail/nhasachmienphi-vi-dai-do-lua-chon.jpg
+
+https://nhasachmienphi.com/images/thumbnail/nhasachmienphi-chi-can-mau-khan-giay.jpg
+
+https://nhasachmienphi.com/images/thumbnail/nhasachmienphi-ai-noi-voi-khong-the-khieu-vu.jpg
+
+Loại sách:
+[
+  {
+    "title": "QUẢN TRỊ & LÃNH ĐẠO",
+    "url": "https://asiadragon.sharepoint.com/sites/ADCMainSite/Shared%20Documents/Forms/Qun%20tr%20%20Lnh%20o.aspx?viewid=5b21473e%2D74d0%2D408d%2D96e6%2D11a9f8719750",
+    "icon": "List"
+  },
+  {
+    "title": "ĐỔI MỚI & SÁNG TẠO",
+    "url": "https://asiadragon.sharepoint.com/sites/ADCMainSite/Shared%20Documents/Forms/i%20mi%20%20Sng%20to.aspx?viewid=bd61e4f2%2D77c4%2D45b3%2D81a7%2Dcb24da49716d",
+"icon": "Rocket"
+  },
+  {
+    "title": "GIAO TIẾP & LÀM VIỆC NHÓM",
+    "url": "https://asiadragon.sharepoint.com/sites/ADCMainSite/Shared%20Documents/Forms/Giao%20tip%20%20Lm%20vic%20nhm.aspx?viewid=830763d8%2D0bda%2D4cd3%2D81f2%2D7e3a635c7612",
+    "icon": "People"
+  },
+  {
+    "title": "CHIẾN LƯỢC & KINH DOANH",
+    "url": "https://asiadragon.sharepoint.com/sites/ADCMainSite/Shared%20Documents/Forms/Chin%20lc%20kinh%20doanh.aspx?viewid=8c17b846%2D341d%2D420c%2Da454%2De90766b4ea5e",
+    "icon": "BarChart4"
+  },
+  {
+    "title": "PHÁT TRIỂN CÁ NHÂN",
+    "url": "https://asiadragon.sharepoint.com/sites/ADCMainSite/Shared%20Documents/Forms/Vn%20ha%20doanh%20nghip.aspx?viewid=d5c97a70%2Dda6f%2D4c8d%2D9b80%2D6519323b6caf",
+    "icon": "Rocket"
+  },
+  {
+    "title": "VĂN HÓA DOANH NGHIỆP",
+    "url": "https://asiadragon.sharepoint.com/sites/ADCMainSite/Shared%20Documents/Forms/Vn%20ha%20doanh%20nghip.aspx?viewid=fef649d6%2D38ba%2D4e1e%2D9fdb%2Dba3553ee7074",
+    "icon": "OfficeChat"
+  }
+]
+
+
+visible add task:RecordsGallery1_1.Selected.'Trạng thái'.Value = "Đã duyệt"
+
+//SERVE.JSON
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/spfx-serve.schema.json",
+  "port": 4321,
+  "https": true,
+  "initialPage": "https://{tenantDomain}/_layouts/workbench.aspx",
+  "serveConfigurations": {
+    "default": {
+      "pageUrl": "https://asiadragon.sharepoint.com/sites/ADCCommunicationMainSite/_layouts/workbench.aspx"
+    },
+    "customHeaderFooter": {
+      "pageUrl": "https://asiadragon.sharepoint.com/sites/ADCCommunicationMainSite/SitePages/Tin-tức.aspx",
+      "customActions": {
+        "9a80e835-311a-4e52-a17a-556f50377484": {
+          "location": "ClientSideExtension.ApplicationCustomizer",
+          "properties": {
+            "headerHtml": "<div style='background:#0078d4;color:white;padding:8px;text-align:center;'>🌐 Custom Header (Local Serve)</div>",
+            "footerHtml": "<div style='background:#333;color:#fff;padding:8px;text-align:center;'>Custom Footer © 2025</div>"
+          }
+        }
+      }
+    }
+  }
+}
+
+birthday:
+[
+  {
+    "name": "Từ Thanh Hậu",
+    "birthDate": "2/12",
+    "imageUrl": "https://asiadragon.com.vn/wp-content/uploads/ADC-Data-SharePointSite/Sinh-Nhat/12-hau.tu.jpg"
+  },
+    {
+    "name": "Lee Yi Nuo",
+    "birthDate": "12/12",
+    "imageUrl": "https://asiadragon.com.vn/wp-content/uploads/ADC-Data-SharePointSite/Sinh-Nhat/12-nuo.lee.jpg"
+  },
+  {
+    "name": "Huỳnh Minh Đồng",
+    "birthDate": "12/12",
+    "imageUrl": "https://asiadragon.com.vn/wp-content/uploads/ADC-Data-SharePointSite/Sinh-Nhat/12-dong.huynh.jpg"
+  },
+  {
+    "name": "Trịnh Văn Dũng",
+    "birthDate": "15/12",
+    "imageUrl": "https://asiadragon.com.vn/wp-content/uploads/ADC-Data-SharePointSite/Sinh-Nhat/12-dung.trinh.jpg"
+  },
+  {
+    "name": "Đỗ Thị Ngàn Thương",
+    "birthDate": "19/12",
+    "imageUrl": "https://asiadragon.com.vn/wp-content/uploads/ADC-Data-SharePointSite/Sinh-Nhat/12-thuong.do.png"
+  },
+  {
+    "name": "Nguyễn Thị Trúc Huy",
+    "birthDate": "21/12",
+    "imageUrl": "https://asiadragon.com.vn/wp-content/uploads/ADC-Data-SharePointSite/Sinh-Nhat/12-huy.nguyen.jpg"
+  },
+  {
+    "name": "Trần Quang Dương",
+    "birthDate": "22/12",
+    "imageUrl": "https://asiadragon.com.vn/wp-content/uploads/ADC-Data-SharePointSite/Sinh-Nhat/12-duong.tran.jpg"
+  },
+  {
+    "name": "Nguyễn Cẩm Trúc",
+    "birthDate": "24/12",
+    "imageUrl": "https://asiadragon.com.vn/wp-content/uploads/ADC-Data-SharePointSite/Sinh-Nhat/12-truc.nguyen.jpg"
+  },
+  {
+    "name": "Nguyễn Đức Quang Minh",
+    "birthDate": "28/12",
+    "imageUrl": "https://asiadragon.com.vn/wp-content/uploads/ADC-Data-SharePointSite/Sinh-Nhat/12-minh.nguyen.jpg"
+  }
+]
+
